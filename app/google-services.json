@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725099892046",
+    "firebase_url": "https://postn-160fc.firebaseio.com",
+    "project_id": "postn-160fc",
+    "storage_bucket": "postn-160fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725099892046:android:baba7c74118ba0c6",
+        "android_client_info": {
+          "package_name": "ashu.post.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725099892046-vb29djvcfvqsfgctouvorvrn269n3f9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashu.post.com",
+            "certificate_hash": "cb37c7ff951adb5297a21df3d6e14c97feb923e7"
+          }
+        },
+        {
+          "client_id": "725099892046-4nd98c1q2nrlqqhp2u5598tunl4kbsv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3Cr0-W8CNR3Xd-IWyed8gBIjSTF7DoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725099892046-4nd98c1q2nrlqqhp2u5598tunl4kbsv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
